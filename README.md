@@ -1,13 +1,13 @@
-## KNTNBOTWA
+## NekoBotz
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
 
 
 
-
-
-## CARA INSTALL
+saya
+saya
+## CARA INSTAL
 # TERMUX
 ```bash
 > download termux
@@ -16,10 +16,10 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/kntnbotwa
-> cd kntnbotwa
+> git clone https://github.com/BotzwhatsApp/Konten
+> cd kontenbot
 > npm i -g cwebp && npm i -g ytdl
-> npm i && npm i got
+> npm saya && npm saya punya
 > bash install.sh
 > node index.js
 ```
